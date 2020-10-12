@@ -1,5 +1,7 @@
 .container {
     height: 100vh;
+    width: 75%;
+    margin: auto;
     display: flex;
     flex-direction: row;
 }
@@ -22,7 +24,6 @@
     display: flex;
     width: 80%;
     flex-direction: column;
-    /* flex-wrap: wrap; */
 }
 
 div {
@@ -47,4 +48,23 @@ div {
     height: 80%;
     width: 100%;
 }
+.formation {
+    height: 80%;
+    width: 100%;
+}
 /* } com = crtl + : */
+body {
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .bold {
+    font-weight: 700;
+    font-size: 20px;
+    text-transform: uppercase;
+    background-color: #0bb5f4;
+  }
+  
+  .semi-bold {
+    font-weight: 500;
+    font-size: 16px;
+  }

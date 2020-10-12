@@ -126,6 +126,7 @@ body {
   background: #009fd9;
   position: relative;
 }
+/* barre skill */
 
 .resume .resume_left .resume_skills ul li .skill_per {
   width: 15%;
@@ -200,7 +201,7 @@ body {
   height: 115px;
   background: #0bb5f4;
 }
-
+/* ligne bleu formation */
 .resume .resume_right .resume_hobby ul {
   display: flex;
   justify-content: space-between;
@@ -214,6 +215,7 @@ body {
   position: relative;
   color: #0bb5f4;
 }
+/* bulle hobby */
 
 .resume .resume_right .resume_hobby ul li i {
   font-size: 30px;
@@ -228,7 +230,7 @@ body {
   height: 2px;
   background: #0bb5f4;
 }
-
+/* dessin hobby */
 .resume .resume_right .resume_hobby ul li:last-child:before {
   display: none;
 }
